@@ -16,7 +16,7 @@ body {
   font-weight: 400;
   height: 100vh;
   color: #333;
-  background-image: linear-gradient(to top left, #364482 0%, #2e8abf 100%);
+  background-image: linear-gradient(to top left, #6da7ff 0%, #40e0fc 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,7 +78,7 @@ main {
 }
 
 .current {
-  background-color: #3669c7;
+  background-color: #c7365f;
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
